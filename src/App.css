@@ -2,6 +2,7 @@ body {
   background-color: #353582;
   margin: 0;
   padding: 20px;
+  background-image: url('image1.png');
 }
 
 .App {
@@ -9,7 +10,7 @@ body {
   margin: 72px auto;
   padding: 20px;
   align-items: center;
-  background-color: #ffffff;
+  background-color: #43c2ea;
   border-radius: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
